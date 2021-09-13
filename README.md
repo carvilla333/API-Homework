@@ -1,4 +1,4 @@
-# API-Homework
+# API
 This repository contains the files needed to complete the tasks requested for the assignment
 
 The file called "Weather_Notebook" contains the steps that were asked to be completed for Part I - WeatherPy
